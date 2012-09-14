@@ -1,0 +1,37 @@
+body {
+    position:relative;
+    font-family:Verdana, sans-serif;
+}
+#wrapper {
+    width:600px;
+    height:400px;
+    margin:auto;                
+    position:relative;
+}
+.char {
+    font-size:38px;
+    font-weight:bold;
+    position:absolute;
+    cursor:pointer;
+}            
+#result {
+    width:600px;
+    margin:auto;
+    border-top:1px solid #ddd;
+    font-size:48px;
+    font-weight:bold;
+    text-align:center;
+    color: gold;
+    padding-top:15px;
+}   
+.title {
+    font-size:26px;
+}
+#header {
+    width:600px;
+    margin:auto;
+    text-align:center;
+    margin-top:50px;
+    border-bottom:1px solid #ddd;
+    padding-bottom:10px;                
+}
