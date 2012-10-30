@@ -1,4 +1,4 @@
-$(document).ready(function() {  
+$(document).ready(function() {
     
     var str_arr = ['H', 'e', 'l', 'l', 'o', '', 'w', 'o', 'r', 'l', 'd', '!']; //correct order to look
     var cur_pos = 0; //current position of checking
