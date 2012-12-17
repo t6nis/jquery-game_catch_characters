@@ -1,5 +1,5 @@
 jQuery game: Catch the characters(source)
-author: T�nis Tartes
+author: Tõnis Tartes
 
 Just a simple game, using jQuery.
 
